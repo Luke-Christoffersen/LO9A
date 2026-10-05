@@ -1,0 +1,23 @@
+commit dfe731ab2f2965046de1ea5dd8adcd68000e2024
+Author: Aidan Schiefer <aidanschiefer@gmail.com>
+Date:   Mon Oct 5 15:42:23 2026 -0600
+
+    feat: finished out negative balance exception creation and output log logic
+
+commit c05cb5b53a7ce12847badb34e1982ddee3746a6b
+Author: Aidan Schiefer <aidanschiefer@gmail.com>
+Date:   Mon Oct 5 12:32:55 2026 -0600
+
+    feat: added toString for NegativeBalanceException
+
+commit 6068d379fa68ff35a166a63ce39ef8893c4c7250
+Author: Your Name <luke_christoffersen@mines.edu>
+Date:   Sun Oct 4 16:20:47 2026 -0600
+
+    feat: added atm and bankaccount class with empty exception class
+
+commit 3a33084224eaed4cb06c00fe3091aa64b0086544
+Author: Your Name <luke_christoffersen@mines.edu>
+Date:   Fri Oct 2 13:08:35 2026 -0600
+
+    feat: added gitignore
